@@ -1,0 +1,3 @@
+Libro {nombre = "Tasty", codigo = "L003", entrada = 2025-08-18 03:32:51.3533515 UTC, salida = Nothing, estado = "Disponible"}
+Libro {nombre = "Sebas", codigo = "L002", entrada = 2025-08-18 03:32:48.5533988 UTC, salida = Nothing, estado = "Disponible"}
+Libro {nombre = "Javier", codigo = "L001", entrada = 2025-08-18 03:32:45.2137189 UTC, salida = Just 2025-08-18 03:35:11.1500022 UTC, estado = "Prestado"}
